@@ -1,0 +1,1 @@
+This is an Android Studio project configured for GitHub Actions. Do not use index.html. APK output: app/build/outputs/apk/debug/app-debug.apk
